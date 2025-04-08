@@ -213,7 +213,7 @@ a {
 	}
 
 	#sidebar {
-    width: 33.33%; /* was  398px; */
+    width: 25%; 
 	flex-grow: 0;
 	flex-shrink: 0;
 	order: -1;
